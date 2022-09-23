@@ -1,0 +1,3 @@
+#!C:\Users\RobertManzaro\Git\AzureFuncTest\.venv\Scripts\python.exe
+from numba.pycc import main
+main()

@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "PYTHON-TO-SNOWFLAKE-USERNAME": "SVC_PROD_PYTHON",
+    "PYTHON-TO-SNOWFLAKE-PASSWORD": "34KcjAiAVpFSJN1Bb2cb"
+
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
